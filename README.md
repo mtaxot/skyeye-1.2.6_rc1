@@ -1,5 +1,5 @@
 # skyeye-1.2.6_rc1
-This is skyeye arm emulator version 1.2.6 that could be build after 2017.
+This is skyeye arm emulator version 1.2.6 that could be built with new Linux.
 
 In order to build successfully, I altered the file :device/nandflash/nandflash_smallblock.c at line 519.
 
